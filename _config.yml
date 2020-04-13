@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   보호를 위한의 필수적인 보안 솔루션입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.mvvmcross.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://isecure-kr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kimkucheol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -90,7 +90,7 @@ collections:
     output: true
     permalink: /topick/:path
 # End
- 
+
 
 # Site menu settings
 menu:
