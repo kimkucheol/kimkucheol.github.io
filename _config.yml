@@ -60,6 +60,7 @@ social:
     - https://suitmyself.wordpress.com/
     - https://kimkucheol.github.io/
 
+
 logo: /assets/images/logo/tosee-avatar.png
 
 # twitter:
@@ -78,13 +79,13 @@ permalink: /:title/
 collections:
   tosee:
     output: true
-    permalink: /tosee/:path/
+    permalink: /tosee/:path
   tocrack:
     output: true
-    permalink: /tocrack/:path/
+    permalink: /tocrack/:path
   topick:
     output: true
-    permalink: /topick/:path/
+    permalink: /topick/:path
     # :path Path to the document relative to the collection's directory, including base filename of the document.
 # End
 
