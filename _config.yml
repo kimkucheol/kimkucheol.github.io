@@ -139,5 +139,5 @@ menu:
 
 category_order:
   - 'Feature'
-#  - 'Manual'
-#  - 'Release'
+  - 'Manual'
+  - 'Release'
