@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   보호를 위한의 필수적인 보안 솔루션입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.mvvmcross.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://isecure-kr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kimkucheol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -52,20 +52,19 @@ exclude:
 # End
 
 # Github metadata settings
-repository: isecure-kr/isecure-kr.github.io
+repository: kimkucheol/kimkucheol.github.io
 # End
 
 # jekyll-seo-tag settings
 social:
-  name: iSecure
+  name: kimkucheol
   links:
-    - https://www.isecurekr.com
-    - https://isecure-kr.github.io/
+    - https://kimkucheol.github.io/
 
 logo: /assets/img/logo/tosee-avatar.png
 
 twitter:
-  username: iSecure
+  username: kimkucheol
 #End
 
 # Date format settings
