@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: tocrack
 title: 결과 보고
 category: Feature
 order: 3
