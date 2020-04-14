@@ -84,9 +84,9 @@ collections:
   tocrack:
     output: true
     permalink: /tocrack/:path    
-  release:
+  topick:
     output: true
-    permalink: /release/:path        
+    permalink: /topick/:path        
 # End
 
 # Site menu settings
