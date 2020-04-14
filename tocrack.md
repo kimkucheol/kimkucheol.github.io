@@ -1,7 +1,7 @@
 ---
 layout: tosee
 title: ToSee
-permalink: /tosee/
+permalink: /tocrack/
 ---
 
 ## 개인 PC 보안 솔루션 ToSee와 보안훈련 솔루션 ToCrack의 소개 문서입니다.

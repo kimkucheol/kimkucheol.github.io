@@ -3,7 +3,6 @@ layout: tocrack
 title: 악성코드 대응훈련
 category: Feature
 order: 1
-permalink: /tocrack/
 ---
 
 ToCrack : To Crackdown
