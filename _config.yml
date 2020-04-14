@@ -83,6 +83,12 @@ collections:
   tosee:
     output: true
     permalink: /tosee/:path                
+  tocrack:
+    output: true
+    permalink: /tocrack/:path                    
+  topick:
+    output: true
+    permalink: /topick/:path                    
 #  manual:
 #    output: true
 #    permalink: /manual/:path    
@@ -97,6 +103,10 @@ menu:
     url: "/blog"
   - title: "ToSee"
     url: "/tosee"    
+  - title: "ToCrack"
+    url: "/tocrack"    
+  - title: "ToPick"
+    url: "/topick"            
 #  - title: "솔루션 소개"
 #    url: "/documentation"
 #  - title: "매뉴얼"
