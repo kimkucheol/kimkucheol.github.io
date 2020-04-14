@@ -97,7 +97,7 @@ menu:
   - title: "BLOG"
     url: "/blog"
   - title: "ToSee"
-    url: "/documentation"
+    url: "/tosee"
   - title: "ToCrack"
     url: "/manual"
   - title: "ToPick"
