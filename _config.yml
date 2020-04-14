@@ -86,12 +86,17 @@ collections:
   release:
     output: true
     permalink: /release/:path        
+  tosee:
+    output: true
+    permalink: /tosee/:path            
 # End
 
 # Site menu settings
 menu:
-  - title: "블로그"
+  - title: "BLOG"
     url: "/blog"
+  - title: "ToSee"
+    url: "/tosee"    
   - title: "솔루션 소개"
     url: "/documentation"
   - title: "매뉴얼"
@@ -101,9 +106,9 @@ menu:
 # End
 
 category_order:
-  - 'ToSee'
-  - 'ToCrack'
-  - 'ToPick'
+  - 'Feature'
+  - 'Manual'
+  - 'Release'
 
 
   
