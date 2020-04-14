@@ -80,15 +80,15 @@ collections:
   documentation:
     output: true
     permalink: /documentation/:path    
-  manual:
-    output: true
-    permalink: /manual/:path    
-  release:
-    output: true
-    permalink: /release/:path        
   tosee:
     output: true
-    permalink: /tosee/:path            
+    permalink: /tosee/:path                
+#  manual:
+#    output: true
+#    permalink: /manual/:path    
+#  release:
+#    output: true
+#    permalink: /release/:path        
 # End
 
 # Site menu settings
@@ -97,12 +97,12 @@ menu:
     url: "/blog"
   - title: "ToSee"
     url: "/tosee"    
-  - title: "솔루션 소개"
-    url: "/documentation"
-  - title: "매뉴얼"
-    url: "/manual"
-  - title: "릴리즈정보"
-    url: "/release"
+#  - title: "솔루션 소개"
+#    url: "/documentation"
+#  - title: "매뉴얼"
+#    url: "/manual"
+#  - title: "릴리즈정보"
+#    url: "/release"
 # End
 
 category_order:
