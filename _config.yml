@@ -91,13 +91,13 @@ collections:
 
 # Site menu settings
 menu:
-  - title: "블로그"
+  - title: "BLOG"
     url: "/blog"
-  - title: "솔루션 소개"
+  - title: "ToSee"
     url: "/documentation"
-  - title: "매뉴얼"
+  - title: "ToCrack"
     url: "/manual"
-  - title: "릴리즈정보"
+  - title: "ToPick"
     url: "/release"
 # End
 

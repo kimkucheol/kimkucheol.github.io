@@ -1,5 +1,5 @@
 ---
-layout: topick
+layout: release
 title: Alpha Release
 category: Feature
 order: 1
