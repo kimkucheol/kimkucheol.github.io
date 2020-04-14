@@ -102,9 +102,9 @@ menu:
 # End
 
 category_order:
-  - 'ToSee'
-  - 'ToCrack'
-  - 'ToPick'
+#  - 'ToSee'
+#  - 'ToCrack'
+#  - 'ToPick'
   - 'Feature'
   - 'Manual'
   - 'Release'
