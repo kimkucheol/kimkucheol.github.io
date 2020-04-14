@@ -78,9 +78,6 @@ permalink: /:title/
 
 # Collections settings
 collections:
-  documentation:
-    output: true
-    permalink: /documentation/:path      
   tosee:
     output: true
     permalink: /tosee/:path              
