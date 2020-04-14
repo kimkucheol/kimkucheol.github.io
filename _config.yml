@@ -105,6 +105,9 @@ category_order:
   - 'ToSee'
   - 'ToCrack'
   - 'ToPick'
-
+  - 'Feature'
+  - 'Manual'
+  - 'Release'
   
+
 
