@@ -87,6 +87,9 @@ collections:
   release:
     output: true
     permalink: /release/:path        
+  tosee:
+    output: true
+    permalink: /tosee/:path            
 # End
 
 # Site menu settings
