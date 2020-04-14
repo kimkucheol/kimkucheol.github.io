@@ -93,11 +93,11 @@ collections:
 menu:
   - title: "블로그"
     url: "/blog"
-  - title: "솔루션 소개"
+  - title: "ToSee"
     url: "/documentation"
-  - title: "매뉴얼"
+  - title: "ToCrack"
     url: "/manual"
-  - title: "릴리즈정보"
+  - title: "ToPcik"
     url: "/release"
 # End
 
