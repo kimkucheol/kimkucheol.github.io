@@ -90,12 +90,6 @@ collections:
   topick:
     output: true
     permalink: /topick/:path                      
-  manual:
-    output: true
-    permalink: /manual/:path    
-  release:
-    output: true
-    permalink: /release/:path        
 # End
 
 # Site menu settings
