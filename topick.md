@@ -1,7 +1,7 @@
 ---
 layout: page
-title: iSecure Data Loss Prevention
-permalink: /idlp/
+title: 서버진단 솔루션 ToPick
+permalink: /topick/
 ---
 
 ## iDLP(iSecure Data Loss Prevention)
