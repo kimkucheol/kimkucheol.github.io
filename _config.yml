@@ -77,21 +77,24 @@ permalink: /:title/
 
 # Collections settings
 collections:
-  tosee:
-    output: true
-    permalink: /tosee/:path                
-  tocrack:
-    output: true
-    permalink: /tocrack/:path                    
-  topick:
-    output: true
-    permalink: /topick/:path                    
-#  manual:
+#  tosee:
 #    output: true
-#    permalink: /manual/:path    
-#  release:
+#    permalink: /tosee/:path                
+#  tocrack:
 #    output: true
-#    permalink: /release/:path        
+#    permalink: /tocrack/:path                    
+#  topick:
+#    output: true
+#    permalink: /topick/:path                    
+  documentation:
+    output: true
+    permalink: /documentation/:path
+  manual:
+    output: true
+    permalink: /manual/:path
+  release:
+    output: true
+    permalink: /release/:path        
 # End
 
 # Site menu settings
