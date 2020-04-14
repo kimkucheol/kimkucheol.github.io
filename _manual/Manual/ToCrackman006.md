@@ -1,5 +1,5 @@
 ---
-layout: tocrack
+layout: manual
 title: 교통위반 메일
 category: Manual
 order: 6

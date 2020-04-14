@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: manual
 title: 결과 보고
 category: Feature
 order: 3
