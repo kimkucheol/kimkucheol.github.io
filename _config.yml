@@ -77,9 +77,6 @@ permalink: /:title/
 
 # Collections settings
 collections:
-  documentation:
-    output: true
-    permalink: /documentation/:path    
   tosee:
     output: true
     permalink: /tosee/:path                
@@ -107,12 +104,6 @@ menu:
     url: "/tocrack"    
   - title: "ToPick"
     url: "/topick"            
-#  - title: "솔루션 소개"
-#    url: "/documentation"
-#  - title: "매뉴얼"
-#    url: "/manual"
-#  - title: "릴리즈정보"
-#    url: "/release"
 # End
 
 category_order:
