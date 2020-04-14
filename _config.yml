@@ -87,6 +87,9 @@ collections:
   tocrack:
     output: true
     permalink: /tocrack/:path                  
+  topick:
+    output: true
+    permalink: /topick/:path                      
   manual:
     output: true
     permalink: /manual/:path    
@@ -104,7 +107,7 @@ menu:
   - title: "ToCrack"
     url: "/tocrack"
   - title: "ToPick"
-    url: "/release"
+    url: "/topick"
 # End
 
 category_order:
