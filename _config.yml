@@ -84,6 +84,9 @@ collections:
   tosee:
     output: true
     permalink: /tosee/:path              
+  tocrack:
+    output: true
+    permalink: /tocrack/:path                  
   manual:
     output: true
     permalink: /manual/:path    
@@ -99,7 +102,7 @@ menu:
   - title: "ToSee"
     url: "/tosee"
   - title: "ToCrack"
-    url: "/manual"
+    url: "/tocrack"
   - title: "ToPick"
     url: "/release"
 # End
