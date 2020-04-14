@@ -86,9 +86,6 @@ collections:
   release:
     output: true
     permalink: /release/:path        
-  devtech:
-    output: true
-    permalink: /devtech/:path            
 # End
 
 # Site menu settings
@@ -101,8 +98,6 @@ menu:
     url: "/manual"
   - title: "릴리즈정보"
     url: "/release"
-  - title: "개발정보"
-    url: "/devtech"    
 # End
 
 category_order:
