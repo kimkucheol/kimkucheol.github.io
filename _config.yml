@@ -81,9 +81,9 @@ collections:
   documentation:
     output: true
     permalink: /documentation/:path    
-  manual:
+  tocrack:
     output: true
-    permalink: /manual/:path    
+    permalink: /tocrack/:path    
   release:
     output: true
     permalink: /release/:path        
@@ -96,7 +96,7 @@ menu:
   - title: "ToSee"
     url: "/documentation"
   - title: "ToCrack"
-    url: "/manual"
+    url: "/tocrack"
   - title: "ToPcik"
     url: "/release"
 # End
