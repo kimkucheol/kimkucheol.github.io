@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: ToSee 소개
 # Intorduce ToSee
 category: Feature

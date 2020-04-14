@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: 방화벽 Plus
 # ToSee Firewall Plus
 category: Feature

@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: 구동환경 및 진단 가능 OS
 # Available & Applicable Environment
 category: Feature

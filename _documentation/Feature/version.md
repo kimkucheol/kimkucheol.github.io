@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: 버젼 구성
 # ToSee Version
 category: Feature

@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: Version 1.60.0.65
 category: Release
 order: 7

@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: 기대 효과
 # expectation effect
 category: 'Feature'

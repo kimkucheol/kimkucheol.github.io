@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: Version 2.1.0.00
 category: Release
 order: 11

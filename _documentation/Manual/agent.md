@@ -1,5 +1,5 @@
 ---
-layout: tosee
+layout: documentation
 title: 에이전트
 # ToSee Analyzer
 category: Manual
