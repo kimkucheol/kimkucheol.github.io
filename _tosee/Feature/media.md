@@ -1,13 +1,13 @@
 ---
 layout: tosee
-title: 이동식 미디어사용(USB) 제어
+title: USB 포트 보안 제어
 # ToSee USB MEDIA
 category: Feature
 order: 6
 ---
 Enterprise Version | Latest Version 
 ------- | -------
- [![EnterPriseLICENSE](https://img.shields.io/badge/Enterprise_Version_license-Limited_time_license-blue.svg)](http://tosee.isecurekr.com/) | [![ToSee](https://img.shields.io/badge/ToSee-v2.0.0-orange)](http://tosee.isecurekr.com/)  
+ [![EnterPriseLICENSE](https://img.shields.io/badge/Enterprise_Version_license-Limited_time_license-blue.svg)](http://tosee.isecurekr.com/) | [![ToSee](https://img.shields.io/badge/ToSee-v2.4.0-orange)](http://tosee.isecurekr.com/)  
 
 
 &nbsp;
