@@ -14,7 +14,7 @@ order: 7
 
 | 최초 설치시 상태 |
 |:-----|
-| 1. 상태 알림 <br> <img src="../../img/usb_001.png" width="364px" height="81px"/> <br> 2. Tray Icon Menu <br> <img src="../../img/usb_002.png" width="339px" height="177px"/> <br> 3. 환경 설정 메뉴 <br> <img src="../../img/usb_003.png" width="420px" height="289px"/> |
+| 1. 상태 알림 <br> <img src="../../img/usb_001.png" width="364px" height="81px"/> <br> 2. Tray Icon Menu <br> <img src="../../img/usb_002.png" width="420px" height="200px"/> <br> 3. 환경 설정 메뉴 <br> <img src="../../img/usb_003.png" width="420px" height="289px"/> |
 | 1. 최초 설치후 실행시 USB 포트가 차단되어 있다. <br> 2. 담당자(관리자)가 등록되어 있지 않은 경우에는 신청메뉴등도 보이지 않는다. <br> 3. 환경설정 메뉴를 오픈하면 담당자모드 활성화 버튼이 활성화 되어 있다. |
 
 &nbsp;
@@ -28,7 +28,7 @@ order: 7
 
 | 담당자 정보 확인 |
 |:-----|
-| 1. 담당자 확인  <br> <img src="../../img/usb_008.png" width="448px" height="289px"/> <br> 2. USB 사용 신청 메뉴 활성화(마우스 오른쫀 버튼)<br> <img src="../../img/usb_009.png" width="339px" height="177px"/> <br> 3. USB 매니져 메뉴 활성화(마우스 오른쫀 버튼) <br> <img src="../../img/usb_007.png" width="339px" height="177px"/> |
+| 1. 담당자 확인  <br> <img src="../../img/usb_008.png" width="420px" height="289px"/> <br> 2. USB 사용 신청 메뉴 활성화(마우스 오른쫀 버튼)<br> <img src="../../img/usb_009.png" width="420px" height="200px"/> <br> 3. USB 매니져 메뉴 활성화(마우스 오른쫀 버튼) <br> <img src="../../img/usb_007.png" width="420px" height="200px"/> |
 | 1. 일정시간이 지나야 담당자 확인이 가능하기 때문에 빠른 사용을 위해서 담당자 확인 버튼을 이용하여 정보를 받을 수 있다. <br> 2. 담당자 확인을 통해 USB 사용 신청 메뉴의 활성화 상태를 확인할 수 있다. <br> 3. 담당자(관리자)또한 USB매니져 메뉴가 활성화 된것이 확인 가능하다. |
 
 &nbsp;
@@ -42,7 +42,7 @@ order: 7
 
 | USB 사용 허가 및 관리 (담당자:관리자) |
 |:-----|
-| 1. 허가 신청자 확인  <br> <img src="../../img/usb_014.png" width="339px" height="177px"/> <br> 2. USB 매니져 <br> <img src="../../img/usb_015.png" width="697px" height="670px"/> |
+| 1. 허가 신청자 확인  <br> <img src="../../img/usb_014.png" width="420px" height="200px"/> <br> 2. USB 매니져 <br> <img src="../../img/usb_015.png" width="697px" height="670px"/> |
 | 1. 트레이 아이콘의 숫자를 통해 허가 요청을 한 신청자의 숫자를 확인할 수 있다.  <br> 2. USB 매니저를 통해서 허가 요청한 신청자를 확인하고 해당 신청자 위에 마우스 오른쪽 버튼을 눌러 허가 및 차단을 할 수 있다. |
 
 &nbsp;
