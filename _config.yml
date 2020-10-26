@@ -18,7 +18,8 @@ description: > # this means to ignore newlines until "baseurl:"
   아이시큐어에서 개발한 제품들과 서비스들에 대한 기술적인 내용들을 정리한 사이트입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.mvvmcross.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://isecure-kr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://isecure-kr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kimkucheol.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -51,15 +52,17 @@ exclude:
 # End
 
 # Github metadata settings
-repository: isecure-kr/isecure-kr.github.io
+# repository: isecure-kr/isecure-kr.github.io
+repository: kimkucheol/kimkucheol.github.io
 # End
 
 # jekyll-seo-tag settings
 social:
   name: iSecure
   links:
-    - https://www.isecurekr.com
-    - https://isecure-kr.github.io/
+    - https://kimkucheol.github.io/
+#    - https://www.isecurekr.com
+#    - https://isecure-kr.github.io/
 
 logo: /assets/images/logo/tosee-avatar.png
 
