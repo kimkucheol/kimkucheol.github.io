@@ -3,7 +3,7 @@ layout: tosee
 title: 구동환경 및 진단 가능 OS
 # Available & Applicable Environment
 category: Feature
-order: 7
+order: 8
 ---
 Personal version | Enterprise Version | Latest Version 
 -------| ------- | -------

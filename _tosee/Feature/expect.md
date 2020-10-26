@@ -3,7 +3,7 @@ layout: tosee
 title: 기대 효과
 # expectation effect
 category: 'Feature'
-order: 6
+order: 7
 ---
 Personal version | Enterprise Version | Latest Version 
 -------| ------- | -------

@@ -3,7 +3,7 @@ layout: tosee
 title: 버젼 구성
 # ToSee Version
 category: Feature
-order: 8
+order: 9
 ---
 Personal version | Enterprise Version | Latest Version 
 -------| ------- | -------
