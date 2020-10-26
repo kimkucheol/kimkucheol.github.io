@@ -1,7 +1,7 @@
 ---
 layout: tosee
 title: USB 포트 보안 제어
-# ToSee USB MEDIA
+# ToSee USB MEDIA CONTROL
 category: Feature
 order: 6
 ---

@@ -3,7 +3,7 @@ layout: tosee
 title: 문제 발생시 조치
 # expectation effect
 category: Manual
-order: 7
+order: 8
 ---
 &nbsp;
 &nbsp;
