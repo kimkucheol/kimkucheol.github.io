@@ -19,6 +19,6 @@ Enterprise Version | Latest Version
 &nbsp;
 
 |||
-|:-----:|:-----:|
-| 요청 내역의 관리 <br> 사용자들로부터 담당자에게 USB 사용 요청을 한 내역과 <br> 허가 및 차단 내역이 담당자의 PC에 파일DB로 저장되며 <br> 담당자는 매니저에서 요청 내역을 바로 확인 할 수 <br> 있습니다. | <img src="../../img/usb_019.png" width="698px" height="671px"/> |
-| 사용 내역의 저장 <br> USB 사용이 허가된 시스템에서는 USB 저장장치에서 작업<br>한 파일의 복사,이동,삭제 내역이 ToSee의 Log폴더 <br> 내에 저장이 되며 담당자는 추후 이 내용까지 확인이 가능 <br> 합니다.| <img src="../../img/usb_020.png" width="751px" height="523px"/> |
+|:-----|:-----:|
+| <b>요청 내역의 관리</b> <br> 사용자들로부터 관리자에게 USB 사용 요청을 한 내역과 <br> 허가 및 차단 내역이 관리자의 PC에 파일DB로 저장되며 <br> 관리자는 매니저에서 요청 내역을 바로 확인 할 수 <br> 있습니다. | <img src="../../img/usb_019.png" width="698px" height="671px"/> |
+| <b>사용 내역의 저장</b> <br> USB 사용이 허가된 시스템에서는 USB 저장장치에서 작업<br>한 파일의 복사,이동,삭제 내역이 ToSee의 Log폴더 <br> 내에 저장이 되며 관리자는 추후 이 내용까지 확인이 가능 <br> 합니다.| <img src="../../img/usb_020.png" width="751px" height="523px"/> |
