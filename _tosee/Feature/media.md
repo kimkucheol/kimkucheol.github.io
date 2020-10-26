@@ -20,7 +20,5 @@ Enterprise Version | Latest Version
 
 |||
 |:-----:|:-----|
-| 최초 설치시 |<img src="../../img/usb_001.png" width="364px" height="81px"/><br>
-<img src="../../img/usb_001.png" width="364px" height="81px"/>
- |
+| 최초 설치시 |<img src="../../img/usb_001.png" width="364px" height="81px"/> |
 | <img src="../../img/pic_L04.png" width="205px" height="205px"/> | <img src="../../img/pic_screen04.png" width="1046px" height="446px"/> |
