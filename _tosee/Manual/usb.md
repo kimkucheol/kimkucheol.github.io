@@ -49,7 +49,7 @@ order: 7
 
 | 알림센터(Windows10)  |
 |:-----|
-| 1. 차단 알림  <br> <img src="../../img/usb_001.png" width="364px" height="81px"/> <br> 2. 허가 알림 <br> <img src="../../img/usb_018.png" width="364px" height="81px"/> <br> 3. 알림 메세지 관리 <br> <img src="../../img/usb_017.png" width="409px" height="1040px"/> |
+| 1. 차단 알림  <br> <img src="../../img/usb_001.png" width="364px" height="81px"/> <br> 2. 허가 알림 <br> <img src="../../img/usb_018.png" width="364px" height="81px"/> <br> 3. 알림 메세지 관리 <br> <img src="../../img/usb_017-1.png" width="396px" height="832px"/> |
 | Windows10의 알림센터기능을 이용하여 USB의 차단, 허가를 알려주며 알림센터에 해당 메세지들이 저장된다.|
 
 
